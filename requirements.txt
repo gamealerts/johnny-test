@@ -1,2 +1,2 @@
 # johnny-test
-django==1.2.7 # pyup: <1.5
+django==1.4.22 # pyup: <1.5
