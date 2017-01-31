@@ -1,0 +1,2 @@
+# johnny-test
+django==1.2 # pyup: <1.3
